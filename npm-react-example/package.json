@@ -1,0 +1,20 @@
+{
+  "name": "npm-react-example",
+  "version": "1.0.0",
+  "description": "Creating React app using npm, build from basic",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hari Bhosale",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
